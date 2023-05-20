@@ -3188,4 +3188,5 @@ PRODUCT_PACKAGES += \
     com.qti.dpmframework \
     dpmapi \
     qcrilhook \
-    qti-telephony-common
+    qti-telephony-common \
+    vendor.qti.gnss@3.0-service
